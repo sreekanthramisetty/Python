@@ -34,3 +34,5 @@ c.config()
 print(c.avg())
 print(Computer.name())
 print(c.Drive())
+
+print("Tested Successfully")
